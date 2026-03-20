@@ -1,6 +1,6 @@
-# bachelor-prototype
+# Bachelor Prototype
 
-Prototype repository for my bachelor thesis in computer science.
+Prototype repository for my CS bachelor thesis.
 
 ## Focus
 Design of interactive problem-solving exercises for programming concepts.
